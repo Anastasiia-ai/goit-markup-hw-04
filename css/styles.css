@@ -65,7 +65,7 @@ img {
     color: #2e2f42;
 }
 
-.nav-studio::after{
+.nav-item::after{
     content: "";
     width: 100%;
     position: absolute; 
@@ -76,7 +76,7 @@ img {
     border-radius: 2px;
 }
 
-.nav-studio {
+.nav-item{
     
     position: relative;
     color: #404bbf;
