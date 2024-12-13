@@ -139,6 +139,7 @@ color: #404bbf;
 }
 
 .main-section {
+    margin:0 auto;
 max-width: 1440px; 
  padding: 188px 0;
  background-color: #2e2f42;
@@ -213,6 +214,11 @@ margin-right:auto;
     align-items: center;
     display: flex;
     justify-content: center; 
+}
+
+.container-portfolio {
+    padding-top: 32px;
+    padding-bottom: 32px;
 }
 
 .info-icon {
