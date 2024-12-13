@@ -375,8 +375,8 @@ height: 300px;
     fill: #f4f4fd;
 }
 
-.portfolio-icon:hover,
-.portfolio-icon:focus{
+.icon-link:hover,
+.icon-link:focus{
 background-color: #404bbf;
 }
 
@@ -421,7 +421,7 @@ background-color: #404bbf;
     padding-bottom: 130px;
 }
 
-.footer-contaiener {
+.footer-container {
     display: flex;
     align-items: baseline;
 }
